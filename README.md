@@ -1,2 +1,2 @@
 # tiktaktoe
-game
+A Multiplayer X-O game in C language
